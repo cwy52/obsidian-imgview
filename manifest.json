@@ -1,0 +1,11 @@
+{
+	"id": "imgview",
+	"name": "Imgview",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Image display with tags.",
+	"author": "cwy52",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
